@@ -1,6 +1,6 @@
 # Bachelor Degree Project: Evaluation of methods to combine predictions from ensemble learning in multivariate forecasting
 
-## Linnéuniversitetet
+## Linnaeus University
 https://coursepress.lnu.se/subject/thesis-projects/
 
 ## Author
